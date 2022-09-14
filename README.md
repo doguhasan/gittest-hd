@@ -1,0 +1,2 @@
+# gittest-hd
+test amacli
